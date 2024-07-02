@@ -135,30 +135,29 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
+              {/* Hello! My name is Brittany and I enjoy creating things that live on the internet. My
               interest in web development started back in 2012 when I decided to try editing custom
               Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              about HTML &amp; CSS! */}
+              Hello! My name is Sriphani Bellamkonda and I enjoy innovating with the help of technology. 
+              I had always gravitated towards building things, breaking them, and problem-solving. 
+              From wanting to be an innovator like "Phineas and Ferb," to recognizing Computer Science as my true calling in high school, I have realized the power of coding.
+              I, thus, constantly try to upskill, technically or otherwise, so that my contributions, the 40,000 hours of my career, become a significant part of the Technological Revolution that we are still undergoing.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              Fast-forward to today, I am pursuing a Master's in Computer Science at New York University and I’ve had the privilege of working at{' '}
+              <a href="https://cims.nyu.edu/dynamic/">a top research University</a>,{' '}
+              <a href="https://www.wellsfargo.com/">a leading FinTech bank </a>,{' '}
+              <a href="https://wsdc.nitw.ac.in/">a University's Portal development firm</a>.
+              My main focus these days is building software solutions to deploy Machine Learning applications on cloud.
             </p>
-
             <p>
               I also recently{' '}
               <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
+                wrote a blog post on medium
               </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              that covers multiple ways of building and deploying Language Models on AWS.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
