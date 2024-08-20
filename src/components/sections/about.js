@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['JavaScript (ES6+)', 'PyTorch', 'PySpark', 'Spring Boot', 'Node.js', 'AWS'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -152,13 +152,13 @@ const About = () => {
               <a href="https://wsdc.nitw.ac.in/">a University's Portal development firm</a>.
               My main focus these days is building software solutions to deploy Machine Learning applications on cloud.
             </p>
-            <p>
+            {/* <p>
               I also recently{' '}
               <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
                 wrote a blog post on medium
               </a>{' '}
               that covers multiple ways of building and deploying Language Models on AWS.
-            </p>
+            </p> */}
 
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
