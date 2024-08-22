@@ -65,12 +65,12 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a Master's student with 4 years of experience specializing in building scalable and smart software.
-         Currently, I’m focused on processing and transcribing terabytes of multilingual speech data at{' '}
-        <a href="https://https://cims.nyu.edu/dynamic//" target="_blank" rel="noreferrer">
-          NYU, Courant Institute of Mathematical Sciences.
-        </a>
-        .
+        I’m a graduate student with specializing in building scalable machine learning and software applications.
+         Currently, I’m focused on processing and transcribing terabytes of multilingual speech data at an{' '}
+        <a href="https://www.cs.columbia.edu/speech/ccu/people/" target="_blank" rel="noreferrer">
+          NYU</a> and <a href="https://www.darpa.mil/program/computational-cultural-understanding" target="_blank" rel="noreferrer">
+          DARPA</a> project called Computational Cultural Understanding (CCU). Additionally, I recently got my 
+        <a href="https://www.credly.com/badges/099834e2-01ae-4195-a096-a9ca07da90d3" target="_blank" rel="noreferrer">AWS Solutions Architect Associate certificate</a>
       </p>
     </>
   );

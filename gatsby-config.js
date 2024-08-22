@@ -4,10 +4,10 @@ module.exports = {
   siteMetadata: {
     title: 'Sriphani Bellamkonda',
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+      'Sriphani Bellamkonda is a expereinced graduate who specializes in building scalable software systems and problem solving',
+    siteUrl: 'https://bellbytes.netlify.app/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '#',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

@@ -1,7 +1,7 @@
 ---
 date: '2024-03-21'
 title: 'Research Assistant'
-company: 'New York University, Courant'
+company: 'NYUxDARPA'
 location: 'Manhattan, NY'
 range: 'March 2024 - Present'
 url: 'https://cims.nyu.edu/dynamic/'
