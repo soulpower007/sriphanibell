@@ -4,8 +4,10 @@ title: 'Research Assistant'
 company: 'NYUxDARPA'
 location: 'Manhattan, NY'
 range: 'March 2024 - Present'
-url: 'https://cims.nyu.edu/dynamic/'
+url: 'https://www.cs.columbia.edu/speech/ccu/'
 ---
 
-- Performed Multilingual Speech recognition and Diarization with Whisper (Speech Language model) in PyTorch and Hugging Face Transformers to process 900+ gigabytes of audio files on Linux High Performance Clusters
-- Built pipelines for pre-processing, inference, evaluation using Python, Numpy, Pandas and SLURM achieving WER around 10%
+- Part of the DARPA funded Computational Cultural Understanding (CCU) project to dentify cross-cultural misunderstandings in dialog
+- Conducted Multilingual Speech Recognition and Diarization using Whisper, a state-of-the-art Speech Language Model, implemented with PyTorch and Hugging Face Transformers, processing over 9 terabytes of multilingual audio/video data on Linux High-Performance Computing Clusters.
+- Designed and optimized end-to-end ML pipelines for data preprocessing, model inference, and evaluation, utilizing Python, Numpy, and Pandas, orchestrated via SLURM, resulting in a competitive Word Error Rate (WER) of approximately 10%.
+- Programmed shell scripts to crawl and backup 10 TB and files and directories with deduplication strategy.

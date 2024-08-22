@@ -9,4 +9,4 @@ url: 'https://www.wellsfargo.com/'
 
 - Architected a scalable full-stack Deep Learning solution for credit risk modelling with 5 classification models and performed Exploratory Data Analysis and Preprocessing on the Dataset.
 - Developed dashboard monitoring with Flask (Python) & Firebase(NoSQL) optimizing and retrieval speed less than 500ms
-- Implemented user authentication using OAuth 2.0, token-based authorization mechanisms with JWT, and caching which boosted performance by 70%
+- Implemented user authentication using OAuth 2.0, token-based authorization mechanisms with JWT, and caching which boosted performance by 70%.
