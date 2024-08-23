@@ -149,7 +149,7 @@ const About = () => {
               Fast-forward to today, I am pursuing a Master's in Computer Science at New York University and I’ve had the privilege of working at{' '}
               <a href="https://cims.nyu.edu/dynamic/">a top research University</a>,{' '}
               <a href="https://www.wellsfargo.com/">a leading FinTech bank </a>,{' '}
-              <a href="https://wsdc.nitw.ac.in/">a University's Portal development firm</a>.
+              <a href="https://wsdc.nitw.ac.in/"> and a University's Portal development cell</a>.
               My main focus these days is building software solutions to deploy Machine Learning applications on cloud.
             </p>
             {/* <p>
