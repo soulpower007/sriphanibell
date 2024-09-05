@@ -2,8 +2,8 @@
 date: '1'
 title: 'Deep Learning Pipeline on AWS'
 cover: './architecture.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+github: 'https://github.com/soulpower007/notes-summarizer'
+external: 'https://github.com/soulpower007/notes-summarizer'
 tech:
   - AWS
   - Python
